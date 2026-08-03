@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |

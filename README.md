@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0283-move-zeroes) |
 ## Depth-First Search
 |  |

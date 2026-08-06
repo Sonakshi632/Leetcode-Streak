@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

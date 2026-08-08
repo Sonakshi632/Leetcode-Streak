@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0877-stone-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3312-sorted-gcd-pair-queries) |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3312-sorted-gcd-pair-queries) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

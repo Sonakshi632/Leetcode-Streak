@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0560-subarray-sum-equals-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0349-intersection-of-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |

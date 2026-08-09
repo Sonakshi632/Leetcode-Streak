@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3312-sorted-gcd-pair-queries) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

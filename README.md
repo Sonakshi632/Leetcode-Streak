@@ -335,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

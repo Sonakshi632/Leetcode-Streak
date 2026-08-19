@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0347-top-k-frequent-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0877-stone-game) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1757-recyclable-and-low-fat-products) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

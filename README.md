@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/2213-longest-substring-of-one-repeating-character) |

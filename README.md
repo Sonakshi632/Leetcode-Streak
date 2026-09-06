@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0387-first-unique-character-in-a-string) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0877-stone-game) |

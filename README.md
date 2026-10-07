@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0628-maximum-product-of-three-numbers) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0486-predict-the-winner) |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

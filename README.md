@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0283-move-zeroes) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0877-stone-game) |

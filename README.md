@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sonakshi632/Leetcode-Streak/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
